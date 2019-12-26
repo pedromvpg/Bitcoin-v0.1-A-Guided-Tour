@@ -24,8 +24,8 @@ Speculated justifications for the unintuitive value "21 million" are that it mat
 —Fr. Bernard W. Dempsey, S.J. (1903-1960)
 
 
+### Example in python
 ```
-Example in python
 COIN = 100 * 1000 * 1000
 nSubsidy = 50 * COIN
 nHeight = 0
