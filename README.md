@@ -6,8 +6,8 @@ If you find this interesting and want to participate, reach out or submit an iss
 
 ![Book Render Top](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_cover.jpg)
 
-![Book Render Top Open](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_open_top.jpg)
+![Book Render Top Open](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_open_top.jpg)
 
 ![Book Render Side Close](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_cover_up.jpg)
 
-![Book Render Side Open](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_open_tele.jpg)
+![Book Render Side Open](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_open_tele.jpg)
