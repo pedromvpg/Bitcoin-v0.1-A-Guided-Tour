@@ -4,6 +4,9 @@ Looking for developer help on commenting and describing the most relevant, inter
 
 If you find this interesting and want to participate, reach out or submit an issue.
 
+
+Some renders of how the book could look like.
+
 ![Book Render Top](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_cover.jpg)
 
 ![Book Render Top Open](https://piratehash.com/wp-content/uploads/2019/12/Bitcoin_Book_Tour_open_top.jpg)
